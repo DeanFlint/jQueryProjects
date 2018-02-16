@@ -1,0 +1,10 @@
+
+.levelone, .leveltwo, .levelthree, .levelfour{align-content: center; text-align: center; font-family:'Montserrat', sans-serif; padding:30px;}
+.levelone img, .leveltwo img, .levelthree img, .levelfour img {height: 100px; width: 100px; margin:30px; border-radius: 30%;}
+
+.levelone{background-color:#B7FACB;}
+.leveltwo{background-color:#CBAFED;}
+.levelthree{background-color:#F8F2CB;}
+.levelfour{background-color:#AAF17B;}
+
+.hidesection {display:none;}
